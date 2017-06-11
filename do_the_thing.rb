@@ -1,5 +1,6 @@
 cool_kids = [
-  "Andrew"
+  "Andrew",
+  "Cartwright"
 ]
 
 puts "The cool kid(s) are: "
