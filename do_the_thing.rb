@@ -1,5 +1,6 @@
 cool_kids = [
   "Andrew",
+  "Cartwright"
   "Laura"
 ]
 
